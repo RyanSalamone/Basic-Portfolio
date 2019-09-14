@@ -28,6 +28,7 @@ ul{
     right: 0%;
     bottom: 0%;
     top: 2%;
+   
     
 }
 
@@ -40,6 +41,7 @@ li{
     float: left;
     border-right-color: lightgrey;
     border-right-style: solid;
+    text-decoration: none;
     
 
 }
@@ -210,3 +212,7 @@ li4, li5, li6, li7, li8 {
     top: 635px;
     left: 212px;
   }
+a{
+  text-decoration: none;
+  color: #666666;
+}
