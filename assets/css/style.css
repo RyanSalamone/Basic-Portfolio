@@ -166,10 +166,11 @@ li4, li5, li6, li7, li8 {
 
 
 .box-set {
-    position: fixed;
+    position: absolute;
     text-align: center;
     font-family: 'Georgia', Times, 'Times New Roman', Times, serif;
     color: white;
+    
     
 
   }
@@ -179,8 +180,8 @@ li4, li5, li6, li7, li8 {
     position: fixed;
     width: 200px;
     height: 25px;
-    background: #4aaaa5
-    
+    background: #4aaaa5;
+    float: left
   }
   
   
